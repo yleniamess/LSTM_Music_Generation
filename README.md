@@ -1,1 +1,1 @@
-# LSTM_Music_Generation
+# Long Short-Term Memory (LSTM) Network for Music Generation
